@@ -20,7 +20,8 @@ Artificial Intelligence with Deep Learning (1st edition, Spring 2019)
 [dlai2017-d8l2-video]: https://youtu.be/z_jufP2xdv4
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
 [dlcv2016-transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
-
+[dlai2017-d9l2-video]: https://youtu.be/FeJT8ejgsL0
+[dlai2017-d10l1-video]: https://www.youtube.com/watch?v=a1aM0yUJXUI
 
 [aidl2019-dl-lab1a]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab1_keras.ipynb
 [aidl2019-dl-lab1b]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab1_tensorflow.ipynb
@@ -49,11 +50,12 @@ Artificial Intelligence with Deep Learning (1st edition, Spring 2019)
 | 5    | Recurrent Neural Networks      | [Marta R. Costa-jussà][MC-web] |  [Video][dlai2017-d7l1-video] |
 | 5    | Attention Models               | [Marta R. Costa-jussà][MC-web] |  [Video][dlai2017-d8l2-video] |
 | 6    | Interpretability               | [Xavier Giro-i-Nieto][XG-web]  |   |
-| 7    | Generative Models              | [Santiago Pascual][SP-web]     |   |
+| 7    | Generative Models              | [Santiago Pascual][SP-web]     |  [Video I][dlai2017-d9l2-video], [Video II][dlai2017-d10l1-video] |
 | 8    | Architectures                  | [Santiago Pascual][SP-web]     |  [Video][dlcv2018-d1l2-video] |
 | 9    | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |   |
-| 10   | Recurrent Neural Networks      | [Daniel Fojo][DF-web]          |  Lab (coming) |
+| 10   | Learning without Annotations   | [Xavier Giro-i-Nieto][XG-web]  |   |
+| 11   | Recurrent Neural Networks      | [Daniel Fojo][DF-web]          |  Lab (coming) |
 |      |                                | [Janna Escur][JE-web]          |    |
-| 11   | Optimization                   | [Kevin McGuinness][KM-web]     |   |
+| 12   | Optimization                   | [Kevin McGuinness][KM-web]     |   |
 
 
