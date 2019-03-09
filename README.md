@@ -1,5 +1,5 @@
 # Artificial Intelligence with Deep Learning 
-## UPC School (Spring 2019, 1st edition, )
+## UPC School (Spring 2019, 1st edition)
 
 
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
