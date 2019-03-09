@@ -40,13 +40,13 @@
 | 2    | Linear Regression              | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI |  [Lab-Keras][aidl2019-dl-lab1a] |
 |      |                                | [Daniel Fojo][DF-web]          |  UPC IDEAI |   [Lab-TF][aidl2019-dl-lab1b] |
 | 2    | Multilayer Perceptron (MLP)    | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI |  [Video][dlai2017-d2l1-video]  |
-| 2    | Overfitting & Underfitting     | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Lab][aidl2019-dl-lab2]  |
+| 2    | Overfitting & Underfitting (lab) | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Lab][aidl2019-dl-lab2]  |
 |      |                                | [Daniel Fojo][DF-web]          |  UPC IDEAI | |
 | 3    | Backpropagation                | [Elisa Sayrol][ES-web]         |  UPC IDEAI       | [Video][dlai2017-d3l1-video] |
 | 3    | Convolutional Neural Networks (CNN)  | [Elisa Sayrol][ES-web]   |  UPC IDEAI | |
 | 4    | MLP & CNN (lab)                | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI |[Lab][aidl2019-dl-lab3] |
 |      |                                | [Daniel Fojo][DF-web]          |  Disney Research       |  |
-| 4    | Transfer Learning              | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Video][dlcv2016-transfer-video] |
+| 4    | Transfer Learning (lab)        | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Video][dlcv2016-transfer-video] |
 |      |                                | [Daniel Fojo][DF-web]          |  Disney Research       | [Lab][aidl2019-dl-lab4] |
 | 5    | Recurrent Neural Networks (RNN)| [Marta R. Costa-jussà][MC-web] |  UPC IDEAI | [Video][dlai2017-d7l1-video] |
 | 5    | Attention Models               | [Marta R. Costa-jussà][MC-web] |  UPC IDEAI | [Video][dlai2017-d8l2-video] |
