@@ -58,8 +58,7 @@
 | 10   | Recurrent Neural Networks (lab)| [Daniel Fojo][DF-web]          |  Lab (coming) |
 |      |                                | [Janna Escur][JE-web]          |    |
 | 11   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |   |
-| 12   | Exam                           | [Xavier Giro-i-Nieto][XG-web]  |   |
-| 13   | Optimization                   | [Kevin McGuinness][KM-web]     |   |
+| 12   | Optimization                   | [Kevin McGuinness][KM-web]     |   |
 
 
 
