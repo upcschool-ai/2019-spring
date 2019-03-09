@@ -81,13 +81,17 @@
 [dlcv2017-d4l6-video]: https://youtu.be/WcaaO1vkZ1U
 [dlcv2018-D4l6-video]: https://youtu.be/QvxKCQddTVE
 
+[aidl2019-cv-lab1]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_cv_lab1_imagenet.ipynb
+[aidl2019-cv-lab2]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_cv_lab2_segmentation.ipynb
+
+
 | Day  | Module                         | Instructor                     | Related material       |
 | :---:| ------------------------------ |  ----------------------------- | :---------------: |
 | 1    | ImageNet Classification        | [Miriam Bellver][MB-web]       | [Video][dlcv2017-d1l4-video]  |
 | 1    | Image Segmentation             | [Miriam Bellver][MB-web]       | [Video I][dlcv2018-d2l3-video], [Video II][dlcv2018-d2l4-video] |
-| 2    | ImageNet Classification        | [Daniel Fojo][DF-web]           | Lab coming |
+| 2    | ImageNet Classification        | [Daniel Fojo][DF-web]           | [Lab][aidl2019-cv-lab1] |
 |      |                                | [Janna Escur][JE-web]          |   |
-| 2    | Instance Segmentation          | [Daniel Fojo][DF-web]           | Lab coming |
+| 2    | Instance Segmentation          | [Daniel Fojo][DF-web]           | [Lab][aidl2019-cv-lab2] |
 |      |                                | [Janna Escur][JE-web]          |   |
 | 3    | Object Detection               | [Michal Drozdzal][MD-web]      |  [Video][dlcv2018-d2l1-video] |
 | 4    | Object Detection               | [Janna Escur][JE-web]           | Lab coming |
