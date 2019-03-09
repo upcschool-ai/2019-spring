@@ -1,5 +1,6 @@
-# 2019-spring
-Artificial Intelligence with Deep Learning (1st edition, Spring 2019)
+# Artificial Intelligence with Deep Learning 
+## UPC School (Spring 2019, 1st edition, )
+
 
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [DF-web]: https://www.linkedin.com/in/daniel-fojo/
@@ -66,11 +67,19 @@ Artificial Intelligence with Deep Learning (1st edition, Spring 2019)
 
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 [MD-web]: https://scholar.google.es/citations?user=XK_ktwQAAAAJ&hl=en
+[EM-web]: https://www.insight-centre.org/users/eva-mohedano
+[ER-web]: https://imatge.upc.edu/web/people/eduard-ramon
 
 [dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
 [dlcv2018-d2l3-video]: https://youtu.be/82BlA_7LHcQ
 [dlcv2018-d2l4-video]: https://youtu.be/ayVJp31GFUM
 [dlcv2018-d2l1-video]: https://youtu.be/O_U9uT_mRq0
+[dlcv2018-d4l2-video]: https://youtu.be/Tc0L2w34wEg
+[dlcv2018-d1l4-video]: https://youtu.be/UyEXEGevhZs
+[dlcv2018-d3l12-video]: https://youtu.be/dY7j5dBqS5g
+[dlcv2018-d4l4-video]: https://youtu.be/anghBcUQCgw
+[dlcv2017-d4l6-video]: https://youtu.be/WcaaO1vkZ1U
+[dlcv2018-D4l6-video]: https://youtu.be/QvxKCQddTVE
 
 | Day  | Module                         | Instructor                     | Related material       |
 | :---:| ------------------------------ |  ----------------------------- | :---------------: |
@@ -83,8 +92,27 @@ Artificial Intelligence with Deep Learning (1st edition, Spring 2019)
 | 3    | Object Detection               | [Michal Drozdzal][MD-web]      |  [Video][dlcv2018-d2l1-video] |
 | 4    | Object Detection               | [Janna Escur][JE-web]           | Lab coming |
 |      |                                | [Daniel Fojo][DF-web]         |   |
-| 5    | 3D Reconstruction              | [Eduard Ramon][ER-web]        |  [Video] |
-| 6    | Video Architectures            | [Eva Mohedano][EM-web]        |  [Video] |
-| 7    | Multimodal                     | [Xavier Giro-i-Nieto][XG-web]        |  [Video] |
+| 5    | 3D Reconstruction              | [Eduard Ramon][ER-web]        |  [Video][dlcv2018-d4l2-video] |
+| 6    | Visual Search                  | [Eva Mohedano][EM-web]        |  [Video][dlcv2018-D1L4-video] |
+| 7    | Video Architectures            | [Eva Mohedano][EM-web]        |  [Video][dlcv2018-d3l12-video] |
+| 8    | Multimodal                     | [Xavier Giro-i-Nieto][XG-web] |  [Video: Vision & Language][dlcv2018-d4l4-video] |
+|      |                                |                               |  [Video: Vision & Audio][dlcv2017-d4l6-video] |
+|      |                                |                                | [Video: Vision & Speech][dlcv2018-D4L6-video]  |
 
+
+
+# Natural Language Processing (2 ECTS)
+
+[MaB-web]: http://www.talp.upc.edu/staff-detail-page-2/73/Magdalena-Biesialska
+[CaE-web]: https://scholar.google.es/citations?hl=en&user=yja1284AAAAJ&view_op=list_works&sortby=pubdate
+
+
+| Day  | Module                         | Instructor                            | Related material       |
+| :---:| ------------------------------ |  ------------------------------------ | :---------------: |
+| 1    | TBC        | [Magdalena Biesialska][MaB-web]       |   |
+| 1    | TBC            | [Carlos Escolano][CaE-web]              |  |
+
+# Audio & Speech (2 ECTS)
+
+Coming soon.
 
