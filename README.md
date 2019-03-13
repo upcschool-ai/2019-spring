@@ -112,10 +112,10 @@
 [CaE-web]: https://scholar.google.es/citations?hl=en&user=yja1284AAAAJ&view_op=list_works&sortby=pubdate
 
 
-| Day  | Module                         | Instructor                            | Related material       |
-| :---:| ------------------------------ |  ------------------------------------ | :---------------: |
-| 1    | TBC        | [Magdalena Biesialska][MaB-web]       |   |
-| 1    | TBC            | [Carlos Escolano][CaE-web]              |  |
+| Day  | Module                             | Instructor                            | Related material       |
+| :---:| ---------------------------------- |  ------------------------------------ | :---------------: |
+| 1    | Rule-based & Statistical Methods   | [Carlos Escolano][CaE-web]        |   |
+| 1    | Neural-based Methods               |   [Magdalena Biesialska][MaB-web]            |  |
 
 # Audio & Speech (2 ECTS)
 
