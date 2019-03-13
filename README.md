@@ -24,6 +24,8 @@
 [dlai2017-d9l2-video]: https://youtu.be/FeJT8ejgsL0
 [dlai2017-d10l1-video]: https://www.youtube.com/watch?v=a1aM0yUJXUI
 
+[mcgill-2018-romero]: https://www.youtube.com/watch?v=TFcWLfMJ38o
+
 [aidl2019-dl-lab1a]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab1_keras.ipynb
 [aidl2019-dl-lab1b]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab1_tensorflow.ipynb
 [aidl2019-dl-lab2]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab2_overfitting.ipynb
@@ -57,7 +59,7 @@
 | 9    | Architectures                  | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
 | 10   | Recurrent Neural Networks (lab)| [Daniel Fojo][DF-web]          |  Disney Research       | Lab (coming) |
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
-| 11   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | . |
+| 11   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | [Video][mcgill-2018-romero] |
 | 12   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU | . |
 
 
