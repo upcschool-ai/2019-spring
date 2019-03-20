@@ -31,6 +31,7 @@
 [aidl2019-dl-lab2]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab2_overfitting.ipynb
 [aidl2019-dl-lab3]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab3_cnn.ipynb
 [aidl2019-dl-lab4]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab4_transfer.ipynb
+[aidl2019-dl-lab5]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab5_style.ipynb
 
 
 # Deep Learning (4 ECTS)
@@ -46,7 +47,7 @@
 |      |                                | [Daniel Fojo][DF-web]          |  UPC IDEAI | |
 | 3    | Backpropagation                | [Elisa Sayrol][ES-web]         |  UPC IDEAI       | [Video][dlai2017-d3l1-video] |
 | 3    | Convolutional Neural Networks (CNN)  | [Elisa Sayrol][ES-web]   |  UPC IDEAI | |
-| 4    | MLP & CNN (lab)                | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI |[Lab][aidl2019-dl-lab3] |
+| 4    | MLP & CNN (lab)                | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Lab][aidl2019-dl-lab3] |
 |      |                                | [Daniel Fojo][DF-web]          |  Disney Research       |  |
 | 4    | Transfer Learning (lab)        | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Video][dlcv2016-transfer-video] |
 |      |                                | [Daniel Fojo][DF-web]          |  Disney Research       | [Lab][aidl2019-dl-lab4] |
@@ -54,7 +55,7 @@
 | 5    | Attention Models               | [Marta R. Costa-jussà][MC-web] |  UPC IDEAI | [Video][dlai2017-d8l2-video] |
 | 6    | Interpretability               | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | |
 | 7    | Generative Models              | [Santiago Pascual][SP-web]     |  UPC IDEAI |  [Video I][dlai2017-d9l2-video], [Video II][dlai2017-d10l1-video] |
-| 8    | Interpretability (lab)         | [Daniel Fojo][DF-web]          |  Disney Research       | Lab (coming) |
+| 8    | Interpretability (lab)         | [Daniel Fojo][DF-web]            |  Disney Research | [Lab][aidl2019-dl-lab5] |
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
 | 9    | Architectures                  | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
 | 10   | Recurrent Neural Networks (lab)| [Daniel Fojo][DF-web]          |  Disney Research       | Lab (coming) |
