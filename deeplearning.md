@@ -1,4 +1,7 @@
+# Artificial Intelligence with Deep Learning 
+## UPC School Barcelona (Spring 2019, 1st edition)
 
+Registrations and details about the next edition of this postgraduate course are available [here](https://www.talent.upc.edu/cat/estudis/formacio/curs/310400/postgrau-artificial-intelligence-deep-learning/).
 
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [DF-web]: https://www.linkedin.com/in/daniel-fojo/
@@ -11,6 +14,7 @@
 
 [MC-web]: http://www.costa-jussa.com/
 [SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
+
 
 [dlai2018-d01l2-video]: https://www.youtube.com/watch?v=cshjMqYJrTo
 [dlai2017-d2l1-video]: https://youtu.be/F03UEq8yVkI
