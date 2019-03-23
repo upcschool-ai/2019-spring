@@ -8,7 +8,7 @@ This postgraduate course is structured in the following subject. Click to access
 * [Natural Language Processing](nlp.md)
 * [Speech & Audio](audio.md) 
 
-Registrations to the next edition are available from [here](https://www.talent.upc.edu/cat/estudis/formacio/curs/310400/postgrau-artificial-intelligence-deep-learning/).
+Registrations to the next edition are available [here](https://www.talent.upc.edu/cat/estudis/formacio/curs/310400/postgrau-artificial-intelligence-deep-learning/).
 
 
 
