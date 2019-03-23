@@ -25,14 +25,14 @@
 
 [aidl2019-cv-lab1]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_cv_lab1_imagenet.ipynb
 [aidl2019-cv-lab2]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_cv_lab2_segmentation.ipynb
-[aidl2019-cv-lab3]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_cv_lab3_objectdetection.ipynb
+[aidl2019-cv-lab3]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_cv_lab3_detection.ipynb
 
 
 | Module  | Topic                         | Instructor                     | Institution      | Related material       |
 | :---:| ------------------------------ |  ----------------------------- | ---------------- |:---------------: |
 | 1    | ImageNet Classification        | [Miriam Bellver][MB-web]       | BSC     | [Video][dlcv2017-d1l4-video]  |
 | 2    | Image Segmentation             | [Miriam Bellver][MB-web]       | BSC     | [Video I][dlcv2018-d2l3-video], [Video II][dlcv2018-d2l4-video] |
-| 3    | ImageNet Classification (lab)  | [Daniel Fojo][DF-web]           | Disney Research | [Lab][aidl2019-cv-lab1] |
+| 3    | ImageNet Models (lab)          | [Daniel Fojo][DF-web]           | Disney Research | [Lab][aidl2019-cv-lab1] |
 |      |                                | [Janna Escur][JE-web]          | Crisalix  |
 | 4    | Instance Segmentation (lab)    | [Daniel Fojo][DF-web]           | Disney Research | [Lab][aidl2019-cv-lab2] |
 |      |                                | [Janna Escur][JE-web]          |  Crisalix |  |
