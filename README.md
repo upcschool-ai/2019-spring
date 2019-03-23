@@ -38,7 +38,8 @@
 # Deep Learning (4 ECTS)
 
 | Module  | Topic                       | Instructor                     | Institution      |  Related material       |
-| :---:| ------------------------------ |  ----------------------------- | ---------------- |:---------------: |
+| :---:| ------------------------------ |  ----------------------------- | :----------: |:---------------: |
+| 1    | Welcome                        | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI |   |
 | 2    | Machine Learning               | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI |   |
 | 3    | The Perceptron                 | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI |  [Video][dlai2018-d01l2-video] |
 | 4    | Linear Regression              | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI |  [Lab-Keras][aidl2019-dl-lab1a] |
@@ -89,7 +90,7 @@
 [aidl2019-cv-lab2]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_cv_lab2_segmentation.ipynb
 
 
-| Day  | Module                         | Instructor                     | Institution      | Related material       |
+| Module  | Topic                         | Instructor                     | Institution      | Related material       |
 | :---:| ------------------------------ |  ----------------------------- | ---------------- |:---------------: |
 | 1    | ImageNet Classification        | [Miriam Bellver][MB-web]       | BSC     | [Video][dlcv2017-d1l4-video]  |
 | 1    | Image Segmentation             | [Miriam Bellver][MB-web]       | BSC     | [Video I][dlcv2018-d2l3-video], [Video II][dlcv2018-d2l4-video] |
@@ -116,12 +117,33 @@
 [CaE-web]: https://scholar.google.es/citations?hl=en&user=yja1284AAAAJ&view_op=list_works&sortby=pubdate
 
 
-| Day  | Module                             | Instructor                            | Related material       |
+| Module  | Topic                             | Instructor                            | Related material       |
 | :---:| ---------------------------------- |  ------------------------------------ | :---------------: |
 | 1    | Rule-based & Statistical Methods   | [Carlos Escolano][CaE-web]        |   |
-| 1    | Neural-based Methods               |   [Magdalena Biesialska][MaB-web]            |  |
+| 2    | Neural-based Methods               |   [Magdalena Biesialska][MaB-web]            |  |
+
+[CS-web]: https://scholar.google.es/citations?user=Nypb-IYAAAAJ&hl=en
+[GC-web]: https://www.linkedin.com/in/guillermo-c%C3%A1mbara-ruiz-43312a68/
+[JL-web]: https://scholar.google.es/citations?user=RYIVzJ0AAAAJ&hl=en
+[JH-web]: https://scholar.google.es/citations?hl=en&user=dTPbsfMAAAAJ
+[JP-web]: http://www.jordipons.me/
+
 
 # Audio & Speech (2 ECTS)
 
-Coming soon.
-
+| Module  | Topic                             | Instructor                            | Related material       |
+| :---:| ---------------------------------- |  ------------------------------------ | :---------------: |
+| 1    | Introduction to Speech             | [ Carlos Segura][CS-web]                         |   |
+| 2    | Introduction to Speech (lab)       |  [Carlos Segura][CS-web]     |  |
+|      |                                    |  [Guillermo Cámbara][GC-web]     |  |
+| 3    | Automatic Speech Recognition       |  [Jordi Luque][JL-web]     |  |
+| 4    | Automatic Speech Recognition (lab) |  [Jordi Luque][JL-web]     |  |
+|      |                                    |  [Carlos Segura][CS-web]     |  |
+| 5    | Speaker Identification             |  [Javier Hernando][JH-web]     |  |
+| 6    | Speaker Diarization                |  [Jordi Luque][JL-web]      |  |
+| 7    | Source Separation                  |  [Carlos Segura][CS-web]     |  |
+| 8    | Speech Enhancement (lab)           |  [Carlos Segura][CS-web]     |  |
+|      |                                    |  [Guillermo Cámbara][GC-web]     |  |
+| 9    | Chatbots                           |  [Carlos Segura][CS-web]     |  |
+| 10   | Audio Synthesis                    |  [Jordi Pons][JP-web]     |  |
+| 11   | Music                              |  [Jordi Pons][JP-web]     |  |
