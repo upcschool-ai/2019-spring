@@ -42,7 +42,7 @@
 | 5    | 3D Reconstruction              | [Eduard Ramon][ER-web]        |  Crisalix   |  [Video][dlcv2018-d4l2-video] |
 | 6    | Visual Search                  | [Eva Mohedano][EM-web]        |  Satellogic  | [Video][dlcv2018-D1L4-video] |
 | 7    | Video Architectures            | [Eva Mohedano][EM-web]        |  Satellogic  | [Video][dlcv2018-d3l12-video] |
-| 8    | Object Tracking                | [Xavier Giro-i-Nieto][XG-web] |  Satellogic  | [Video][dlcv2018-d3l12-video] |
+| 8    | Object Tracking                | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][dlcv2018-d3l12-video] |
 | 9    | Multimodal                     | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI . | [Video: Vision & Language][dlcv2018-d4l4-video] |
 |      |                                |                               |    | [Video: Vision & Audio][dlcv2017-d4l6-video] |
 |      |                                |                                |  | [Video: Vision & Speech][dlcv2018-D4L6-video]  |
