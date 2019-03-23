@@ -1,3 +1,8 @@
+# Artificial Intelligence with Deep Learning 
+## UPC School Barcelona (Spring 2019, 1st edition)
+
+Check the complete study plan [here](README.md). Registrations and details about the next edition of this postgraduate course are available [here](https://www.talent.upc.edu/cat/estudis/formacio/curs/310400/postgrau-artificial-intelligence-deep-learning/).
+
 [CS-web]: https://scholar.google.es/citations?user=Nypb-IYAAAAJ&hl=en
 [GC-web]: https://www.linkedin.com/in/guillermo-c%C3%A1mbara-ruiz-43312a68/
 [JL-web]: https://scholar.google.es/citations?user=RYIVzJ0AAAAJ&hl=en
