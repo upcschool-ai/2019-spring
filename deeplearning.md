@@ -61,7 +61,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 11    | Recurrent Neural Networks (RNN)| [Marta R. Costa-jussà][MC-web] |  UPC IDEAI | [Video][dlai2017-d7l1-video] |
 | 12    | Attention Models               | [Marta R. Costa-jussà][MC-web] |  UPC IDEAI | [Video][dlai2017-d8l2-video] |
 | 13    | Interpretability               | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | |
-| 14    | Generative Models              | [Santiago Pascual][SP-web]     |  UPC IDEAI |  Videos: [VAE][dlai2018-d07l1-video], [GAN][dlai2018-d09l1-video], [Flow][dlai2018-d09l2-video] |
+| 14    | Generative Models              | [Santiago Pascual][SP-web]     |  UPC IDEAI |  Videos: [VAE][dlai2018-d07l1-video], [GAN][dlai2018-d09l1-video] |
 | 15    | Interpretability (lab)         | [Daniel Fojo][DF-web]            |  Disney Research | [Lab][aidl2019-dl-lab5] |
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
 | 16   | Recurrent Neural Networks (lab)| [Daniel Fojo][DF-web]          |  Disney Research       | [Lab][aidl2019-dl-lab6] |
