@@ -62,10 +62,10 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 12    | Attention Models               | [Marta R. Costa-jussà][MC-web] |  UPC IDEAI | [Video][dlai2017-d8l2-video] |
 | 13    | Interpretability               | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | |
 | 14    | Generative Models              | [Santiago Pascual][SP-web]     |  UPC IDEAI |  Videos: [VAE][dlai2018-d07l1-video], [GAN][dlai2018-d09l1-video] |
-| 15    | Interpretability (lab)         | [Daniel Fojo][DF-web]            |  Disney Research | [Lab][aidl2019-dl-lab5] |
+| 15   | Interpretability (lab)         | [Daniel Fojo][DF-web]          |  Disney Research | [Lab][aidl2019-dl-lab5] |
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
 | 16   | Recurrent Neural Networks (lab)| [Daniel Fojo][DF-web]          |  Disney Research       | [Lab][aidl2019-dl-lab6] |
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
-| 17    | Architectures                  | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
-| 18   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | [Video][mcgill-2018-romero] |
+| 17   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | [Video][mcgill-2018-romero] |
+| 18   | Architectures                  | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
 | 19   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU | . |
