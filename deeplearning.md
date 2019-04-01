@@ -8,6 +8,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 [ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [JE-web]: https://www.linkedin.com/in/janna-escur-i-gelabert-276b1212b/?originalSubdomain=es
 
+[JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
 [AR-web]: https://research.fb.com/people/romero-soriano/
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
 [AS-web]: https://imatge.upc.edu/web/people/amaia-salvador
@@ -68,4 +69,5 @@ Check the complete study plan [here](README.md). Registrations and details about
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
 | 17   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | [Video][mcgill-2018-romero] |
 | 18   | Architectures                  | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
-| 19   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU | . |
+| 19   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica | [ |
+| 20   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU | . |
