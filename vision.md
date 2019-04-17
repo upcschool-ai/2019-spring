@@ -56,7 +56,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 8    | 3D Reconstruction              | [Eduard Ramon][ER-web]        |  Crisalix   |  [Video][dlcv2018-d4l2-video] |
 | 9    | Visual Search                  | [Eva Mohedano][EM-web]        |  Satellogic  | [Video][dlcv2018-D1L4-video] |
 | 10   | Video Architectures            | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][dlcv2018-d3l12-video] |
-| 11   | Object Tracking .              | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][mcv2019-object-video] |
+| 11   | Object Tracking                | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][mcv2019-object-video] |
 | 12   | Video Object Segmentation      | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][mcv2019-vos-video] |
 | 13   | Face Recognition               | [Elisa Sayrol][ES-web]        |  UPC IDEAI  | [Video][dlcv2018-d2l2-video] |
 | 14   | Medical Imaging                | [Elisa Sayrol][ES-web]        |  UPC IDEAI  | [Video][dlcv2018-d2l5-video] |
