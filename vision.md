@@ -59,6 +59,6 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 11   | Object Tracking .              | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][mcv2019-object-video] |
 | 12   | Video Object Segmentation      | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][mcv2019-vos-video] |
 | 13   | Face Recognition               | [Elisa Sayrol][ES-web]        |  UPC IDEAI  | [Video][dlcv2018-d2l2-video] |
-| 14   | Medical Imaging                | [Elisa Sayrol][ES-web]        |  UPC IDEAI . | [Video][dlcv2018-d2l5-video] |
+| 14   | Medical Imaging                | [Elisa Sayrol][ES-web]        |  UPC IDEAI  | [Video][dlcv2018-d2l5-video] |
 | 15   | Visual Saliency Prediction     | [Kevin McGuinness][KM-web]     |  Insight DCU | [Video][dlcv2018-D3l5-video] |
 
