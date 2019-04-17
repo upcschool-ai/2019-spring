@@ -37,6 +37,8 @@ Check the complete study plan [here](README.md). Registrations and details about
 
 
 [mcv2019-vos-video]: https://youtu.be/yDsBZXLCObM
+[mcv2019-object-video]: https://youtu.be/CYW6T2Q24z0
+
 
 
 | Module  | Topic                         | Instructor                     | Institution      | Related material       |
