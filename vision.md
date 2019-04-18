@@ -39,6 +39,8 @@ Check the complete study plan [here](README.md). Registrations and details about
 [mcv2019-vos-video]: https://youtu.be/yDsBZXLCObM
 [mcv2019-object-video]: https://youtu.be/CYW6T2Q24z0
 
+[eccv2018-ganimation]: https://www.youtube.com/watch?v=raL78R3kl5E
+
 
 
 | Module  | Topic                         | Instructor                     | Institution      | Related material       |
@@ -52,7 +54,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 5    | Object Detection               | [Michal Drozdzal][MD-web]      |  Facebook AI    | [Video][dlcv2018-d2l1-video] |
 | 6    | Object Detection (lab)         | [Janna Escur][JE-web]           | Crisalix | [Lab][aidl2019-cv-lab3] |
 |      |                                | [Daniel Fojo][DF-web]         |  Disney Research |
-| 7    | Image Generation               | [Albert Pumarola][AP-web]     |  UPC IRI   |   |
+| 7    | Image Generation               | [Albert Pumarola][AP-web]     |  UPC IRI   |  [Video][eccv2018-ganimation] |
 | 8    | 3D Reconstruction              | [Eduard Ramon][ER-web]        |  Crisalix   |  [Video][dlcv2018-d4l2-video] |
 | 9    | Visual Search                  | [Eva Mohedano][EM-web]        |  Satellogic  | [Video][dlcv2018-D1L4-video] |
 | 10   | Video Architectures            | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][dlcv2018-d3l12-video] |
