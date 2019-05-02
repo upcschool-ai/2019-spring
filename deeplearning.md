@@ -29,6 +29,8 @@ Check the complete study plan [here](README.md). Registrations and details about
 [dlai2018-d07l1-video]: https://youtu.be/nSyj85PbhkI
 [dlai2018-d09l1-video]: https://youtu.be/b3CI46RSOjU
 [dlai2018-d09l2-video]: https://youtu.be/7XRpVKpbxq8
+[dlai2018-d05l2-video]: https://youtu.be/HBeevCctYXM
+
 
 [mcgill-2018-romero]: https://www.youtube.com/watch?v=TFcWLfMJ38o
 
@@ -43,6 +45,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 [aidl2019-dl-lab6]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab6_rnn.ipynb
 [aidl2019-dl-lab7]: https://colab.research.google.com/drive/1UbDGzmT53QxKblfn6rsJXHOoA_ROaHxY
 
+[oriolvinyals-video]: https://www.youtube.com/watch?v=Kedt2or9xlo
 
 # Deep Learning (4 ECTS)
 
@@ -74,5 +77,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 17   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | [Video][mcgill-2018-romero] |
 | 18   | Architectures (lab)            | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
 |      |                                |                                |            | [Lab][aidl2019-dl-lab7] |
-| 19   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
-| 20   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
+| 19   | Reinforcement Learning         | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Video][dlai2018-d05l2-video] |
+|    |          | [Oriol Vinyals][OV-web]  |  Deepmind | [Video][oriolvinyals-video] |
+| 20   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
+| 21   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
