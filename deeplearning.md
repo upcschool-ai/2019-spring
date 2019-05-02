@@ -32,6 +32,8 @@ Check the complete study plan [here](README.md). Registrations and details about
 
 [mcgill-2018-romero]: https://www.youtube.com/watch?v=TFcWLfMJ38o
 
+[santipdp-gan-lab]: https://github.com/santi-pdp/pytorch_tutorials/blob/master/gan/Turning%20a%20square%20into%20a%20circle.ipynb
+
 [aidl2019-dl-lab1a]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab1_keras.ipynb
 [aidl2019-dl-lab1b]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab1_tensorflow.ipynb
 [aidl2019-dl-lab2]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab2_overfitting.ipynb
@@ -63,6 +65,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 12    | Attention Models               | [Marta R. Costa-jussà][MC-web] |  UPC IDEAI | [Video][dlai2017-d8l2-video] |
 | 13    | Interpretability               | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | |
 | 14    | Generative Models              | [Santiago Pascual][SP-web]     |  UPC IDEAI |  Videos: [VAE][dlai2018-d07l1-video], [GAN][dlai2018-d09l1-video] |
+| |    |    | |  [Lab][santipdp-gan-lab] |
 | 15   | Interpretability (lab)         | [Daniel Fojo][DF-web]          |  Disney Research | [Lab][aidl2019-dl-lab5] |
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
 | 16   | Recurrent Neural Networks (lab)| [Daniel Fojo][DF-web]          |  Disney Research       | [Lab][aidl2019-dl-lab6] |
