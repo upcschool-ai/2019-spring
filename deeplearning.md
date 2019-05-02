@@ -41,6 +41,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 [aidl2019-dl-lab4]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab4_transfer.ipynb
 [aidl2019-dl-lab5]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab5_style.ipynb
 [aidl2019-dl-lab6]: https://github.com/upcschool-ai/2019-spring/blob/master/labs/aidl2019_dl_lab6_rnn.ipynb
+[aidl2019-dl-lab7]: https://colab.research.google.com/drive/1UbDGzmT53QxKblfn6rsJXHOoA_ROaHxY
 
 
 # Deep Learning (4 ECTS)
@@ -71,6 +72,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 16   | Recurrent Neural Networks (lab)| [Daniel Fojo][DF-web]          |  Disney Research       | [Lab][aidl2019-dl-lab6] |
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
 | 17   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | [Video][mcgill-2018-romero] |
-| 18   | Architectures                  | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
+| 18   | Architectures (lab)            | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
+|      |                                |                                |            | [aidl2019-dl-lab7] |
 | 19   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica | [ |
 | 20   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU | . |
