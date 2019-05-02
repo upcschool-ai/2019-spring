@@ -16,6 +16,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 [MC-web]: http://www.costa-jussa.com/
 [SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
 
+[OV-web]: https://ai.google/research/people/OriolVinyals
 
 [dlai2018-d01l2-video]: https://www.youtube.com/watch?v=cshjMqYJrTo
 [dlai2017-d2l1-video]: https://youtu.be/F03UEq8yVkI
