@@ -73,6 +73,6 @@ Check the complete study plan [here](README.md). Registrations and details about
 |      |                                | [Janna Escur][JE-web]          |  Crisalix  |  |
 | 17   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | [Video][mcgill-2018-romero] |
 | 18   | Architectures (lab)            | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
-|      |                                |                                |            | [aidl2019-dl-lab7] |
-| 19   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica | [ |
-| 20   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU | . |
+|      |                                |                                |            | [Lab][aidl2019-dl-lab7] |
+| 19   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
+| 20   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
