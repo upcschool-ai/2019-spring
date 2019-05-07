@@ -15,6 +15,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 
 [MC-web]: http://www.costa-jussa.com/
 [SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
+[JT-web]: https://torres.ai/
 
 [OV-web]: https://ai.google/research/people/OriolVinyals
 
@@ -78,7 +79,8 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 17   | Graph Neural Networks & Sets   | [Adriana Romero][AS-web]       |  Facebook AI | [Video][mcgill-2018-romero] |
 | 18   | Architectures (lab)            | [Santiago Pascual][SP-web]     |  UPC IDEAI | [Video][dlcv2018-d1l2-video] |
 |      |                                |                                |            | [Lab][aidl2019-dl-lab7] |
-| 19   | Reinforcement Learning         | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Video][dlai2018-d05l2-video] |
+| 19   | High Performance Computing     | [Jordi Torres][JT-web]         |  BSC |  |
+| 20   | Reinforcement Learning         | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Video][dlai2018-d05l2-video] |
 |    |          | [Oriol Vinyals][OV-web]  |  Deepmind | [Video][oriolvinyals-video] |
-| 20   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
-| 21   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
+| 21   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
+| 22   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
