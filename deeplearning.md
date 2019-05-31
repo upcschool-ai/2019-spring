@@ -16,8 +16,9 @@ Check the complete study plan [here](README.md). Registrations and details about
 [MC-web]: http://www.costa-jussa.com/
 [SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
 [JT-web]: https://torres.ai/
-
 [OV-web]: https://ai.google/research/people/OriolVinyals
+[PR-web]: http://www.ub.edu/dept_matinfo/professors/radeva-petia-2/
+
 
 [dlai2018-d01l2-video]: https://www.youtube.com/watch?v=cshjMqYJrTo
 [dlai2017-d2l1-video]: https://youtu.be/F03UEq8yVkI
@@ -82,5 +83,8 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 19   | High Performance Computing     | [Jordi Torres][JT-web]         |  BSC |  |
 | 20   | Reinforcement Learning         | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Video][dlai2018-d05l2-video] |
 |    |          | [Oriol Vinyals][OV-web]  |  Deepmind | [Video][oriolvinyals-video] |
-| 21   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
-| 22   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
+| 21   | Multitask Learning                  | [Petia Radeva][PR-web]        |  UB CVC     |  |
+| 22   | Uncertainty in DL              | [Petia Radeva][PR-web]        |  UB CVC     |  |
+| 23   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
+| 25   | Self-supervised Learning       | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | |
+| 26   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
