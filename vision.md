@@ -14,6 +14,7 @@ Check the complete study plan [here](README.md). Registrations and details about
 [AP-web]: https://www.albertpumarola.com/
 [EM-web]: https://www.insight-centre.org/users/eva-mohedano
 [ER-web]: https://imatge.upc.edu/web/people/eduard-ramon
+[PR-web]: http://www.ub.edu/dept_matinfo/professors/radeva-petia-2/
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
 
 
@@ -58,7 +59,8 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 8    | 3D Reconstruction              | [Eduard Ramon][ER-web]        |  Crisalix   |  [Video][dlcv2018-d4l2-video] |
 | 9    | Visual Search                  | [Eva Mohedano][EM-web]        |  Satellogic  | [Video][dlcv2018-D1L4-video] |
 | 10   | Video Architectures            | [Xavier Giro-i-Nieto][XG-web] |  UPC IDEAI  | [Video][dlcv2018-d3l12-video] |
-| 11   | Face Recognition               | [Elisa Sayrol][ES-web]        |  UPC IDEAI  | [Video][dlcv2018-d2l2-video] |
-| 12   | Medical Imaging                | [Elisa Sayrol][ES-web]        |  UPC IDEAI  | [Video][dlcv2018-d2l5-video] |
-| 13   | Visual Saliency Prediction     | [Kevin McGuinness][KM-web]     |  Insight DCU | [Video][dlcv2018-D3l5-video] |
+| 11   | Food Analysis                  | [Petia Radeva][PR-web]        |  UB CVC     |  |
+| 12   | Face Recognition               | [Elisa Sayrol][ES-web]        |  UPC IDEAI  | [Video][dlcv2018-d2l2-video] |
+| 13   | Medical Imaging                | [Elisa Sayrol][ES-web]        |  UPC IDEAI  | [Video][dlcv2018-d2l5-video] |
+| 14   | Visual Saliency Prediction     | [Kevin McGuinness][KM-web]     |  Insight DCU | [Video][dlcv2018-D3l5-video] |
 
