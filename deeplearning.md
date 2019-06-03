@@ -83,8 +83,6 @@ Check the complete study plan [here](README.md). Registrations and details about
 | 19   | High Performance Computing     | [Jordi Torres][JT-web]         |  BSC |  |
 | 20   | Reinforcement Learning         | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | [Video][dlai2018-d05l2-video] |
 |    |          | [Oriol Vinyals][OV-web]  |  Deepmind | [Video][oriolvinyals-video] |
-| 21   | Multitask Learning                  | [Petia Radeva][PR-web]        |  UB CVC     |  |
-| 22   | Uncertainty in DL              | [Petia Radeva][PR-web]        |  UB CVC     |  |
-| 23   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
-| 25   | Self-supervised Learning       | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | |
-| 26   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
+| 21   | Unintuitive DL                 | [Joan Serrà][JS-web]           |  Telefonica |  |
+| 22   | Self-supervised Learning       | [Xavier Giro-i-Nieto][XG-web]  |  UPC IDEAI | |
+| 23   | Optimization                   | [Kevin McGuinness][KM-web]     |  Insight DCU |  |
